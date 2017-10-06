@@ -6,23 +6,22 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 Software Engineer with more than ten years of experience.
-Focused on Android development for the last 5 (since API 14).
-Currently located in Berlin.
-
-**Open for freelancing and full time positions, both in Berlin or remotely.**
+Doing Android development since 2012. Currently located in Berlin.
 
 I've worked in different B2B industries: Telecomunications, Gaming and Multimedia.
 Currently I am working in B2C, building a social app for consumers.
 
-As part of my job, I am also technical blogger and speaker. My articles have
-been featured in [Android Weekly](http://androidweekly.net/),
-[Kotlin Weekly](http://www.kotlinweekly.net/) and [The Practical
-Dev](https://twitter.com/ThePracticalDev).
+I am also technical blogger and speaker. My articles have
+been featured in [Android Weekly](http://androidweekly.net/) and [Kotlin Weekly](http://www.kotlinweekly.net/).
+
+<h2>Talks</h2>
+
+`2017-07-26` [Berlindroid](https://www.meetup.com/GDG-Berlin-Android/events/239504328/) - Slides: [No More Tofu - Taming Emoji On Android](https://speakerdeck.com/miquelbeltran/no-more-tofu-taming-emoji-on-android)</br>
 
 <h2>Specialized In</h2>
 
 <ul class="skill-list">
-  <li>Android Development, with special interest in Kotlin and RxJava</li>
+  <li>Android Development, with special interest in Kotlin</li>
   <li>App publishing</li>
   <li>Project Management</li>
   <li>Google Firebase</li>

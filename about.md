@@ -11,12 +11,15 @@ Doing Android development since 2012. Currently located in Berlin.
 I've worked in different B2B industries: Telecomunications, Gaming and Multimedia.
 Currently I am working in B2C, building a social app for consumers.
 
-I am also technical blogger and speaker. My articles have
+I am also a technical blogger and speaker. My articles have
 been featured in [Android Weekly](http://androidweekly.net/) and [Kotlin Weekly](http://www.kotlinweekly.net/).
 
 <h2>Talks</h2>
 
 `2017-07-26` [Berlindroid](https://www.meetup.com/GDG-Berlin-Android/events/239504328/) - Slides: [No More Tofu - Taming Emoji On Android](https://speakerdeck.com/miquelbeltran/no-more-tofu-taming-emoji-on-android)<br/>
+`2017-11-04` [DevFest Berlin 2017](https://2017.devfest-berlin.de/schedule/day2?sessionId=20602) - Slides: [Mastering Firebase Cloud Messaging](https://speakerdeck.com/miquelbeltran/mastering-firebase-cloud-messaging)<br/>
+`2017-11-04` [DevFest Berlin 2017](https://2017.devfest-berlin.de/schedule/day2?sessionId=2012022) - Slides: [Roll Your Own DSL with Kotlin (Lightning Talk)](https://speakerdeck.com/miquelbeltran/roll-your-own-dsl-with-kotlin-lightning-talk)<br/>
+`2018-02-08` [DroidKaigi 2018](https://droidkaigi.jp/2018/) - In preparation: Say bye to Fragments with Conductor & Kotlin<br/>
 
 <h2>Specialized In</h2>
 
@@ -58,13 +61,4 @@ been featured in [Android Weekly](http://androidweekly.net/) and [Kotlin Weekly]
 Berlin. Since then, I've been hosting workshops as part of the Women Techmakers
 activities twice a month to teach Android development to beginners. Our events
 have a strong focus on being inclusive and help those who did not have the
-opportuniy to start a carreer in IT.</p>
-
-<p>As part of the Google Developers Group, I've been organizer of the DevFest,
-a community conference with international speakers on Google technologies.</p>
-
-<h2>Passion for coding</h2>
-
-<p>I consider myself lucky for having a profession that is as well one of my
-hobbies. I enjoy attending to tech conferences, reading and writing blog posts
-and learning new things through personal projects.</p>
+opportunity to start a carreer in IT.</p>

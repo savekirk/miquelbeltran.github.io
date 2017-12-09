@@ -16,10 +16,11 @@ been featured in [Android Weekly](http://androidweekly.net/) and [Kotlin Weekly]
 
 <h2>Talks</h2>
 
-`2017-07-26` [Berlindroid](https://www.meetup.com/GDG-Berlin-Android/events/239504328/) - Slides: [No More Tofu - Taming Emoji On Android](https://speakerdeck.com/miquelbeltran/no-more-tofu-taming-emoji-on-android)<br/>
+`2018-02-08` [DroidKaigi 2018](https://droidkaigi.jp/2018/) - In preparation: Say bye to Fragments with Conductor & Kotlin<br/>
 `2017-11-04` [DevFest Berlin 2017](https://2017.devfest-berlin.de/schedule/day2?sessionId=20602) - Slides: [Mastering Firebase Cloud Messaging](https://speakerdeck.com/miquelbeltran/mastering-firebase-cloud-messaging)<br/>
 `2017-11-04` [DevFest Berlin 2017](https://2017.devfest-berlin.de/schedule/day2?sessionId=2012022) - Slides: [Roll Your Own DSL with Kotlin (Lightning Talk)](https://speakerdeck.com/miquelbeltran/roll-your-own-dsl-with-kotlin-lightning-talk)<br/>
-`2018-02-08` [DroidKaigi 2018](https://droidkaigi.jp/2018/) - In preparation: Say bye to Fragments with Conductor & Kotlin<br/>
+`2017-07-26` [Berlindroid](https://www.meetup.com/GDG-Berlin-Android/events/239504328/) - Slides: [No More Tofu - Taming Emoji On Android](https://speakerdeck.com/miquelbeltran/no-more-tofu-taming-emoji-on-android)<br/>
+
 
 <h2>Specialized In</h2>
 

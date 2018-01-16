@@ -9,7 +9,7 @@ Software Engineer with more than ten years of experience.
 Doing Android development since 2012. Currently located in Berlin.
 
 I've worked in different B2B industries: Telecomunications, Gaming and Multimedia.
-Currently I am working in B2C, building a social app for consumers.
+Currently I am building a social app to connect neighbours.
 
 I am also a technical blogger and speaker. My articles have
 been featured in [Android Weekly](http://androidweekly.net/) and [Kotlin Weekly](http://www.kotlinweekly.net/).
@@ -17,6 +17,7 @@ been featured in [Android Weekly](http://androidweekly.net/) and [Kotlin Weekly]
 <h2>Talks</h2>
 
 `2018-02-08` [DroidKaigi 2018](https://droidkaigi.jp/2018/) - In preparation: Say bye to Fragments with Conductor & Kotlin<br/>
+`2018-01-31` [Berlindroid](https://www.meetup.com/de-DE/GDG-Berlin-Android/events/240633950/?eventId=240633950) - In preparation: Say bye to Fragments with Conductor & Kotlin<br/>
 `2017-11-04` [DevFest Berlin 2017](https://2017.devfest-berlin.de/schedule/day2?sessionId=20602) - Slides: [Mastering Firebase Cloud Messaging](https://speakerdeck.com/miquelbeltran/mastering-firebase-cloud-messaging)<br/>
 `2017-11-04` [DevFest Berlin 2017](https://2017.devfest-berlin.de/schedule/day2?sessionId=2012022) - Slides: [Roll Your Own DSL with Kotlin (Lightning Talk)](https://speakerdeck.com/miquelbeltran/roll-your-own-dsl-with-kotlin-lightning-talk)<br/>
 `2017-07-26` [Berlindroid](https://www.meetup.com/GDG-Berlin-Android/events/239504328/) - Slides: [No More Tofu - Taming Emoji On Android](https://speakerdeck.com/miquelbeltran/no-more-tofu-taming-emoji-on-android)<br/>

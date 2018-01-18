@@ -8,7 +8,7 @@ layout: page
 Software Engineer with more than ten years of experience.
 Doing Android development since 2012. Currently located in Berlin.
 
-I've worked in different B2B industries: Telecomunications, Gaming and Multimedia.
+I've worked in different industries: Telecomunications, gaming, multimedia and consumer apps.
 Currently I am building a social app to connect neighbours.
 
 I am also a technical blogger and speaker. My articles have
@@ -45,16 +45,15 @@ been featured in [Android Weekly](http://androidweekly.net/) and [Kotlin Weekly]
 
 ## Formal Education
 
-`2010-2011` **Project Management** _Master of Schience (Msc)_<br/>
+`2010-2011` **Project Management** _Master of Science (Msc)_<br/>
 `2002-2008` **Computer Science** _Bachellor and Master_
 
 <h2>Notable Open Source Projects & Contributions</h2>
 
 <ul>
   <li><a href="https://github.com/miquelbeltran/android-discogsbrowser">Android Discogs Browser</a></li>
-  <li><a href="https://github.com/miquelbeltran/android-rxjava-realm-cache">RxJava Realm Cache example</a></li>
-  <li><a href="https://github.com/miquelbeltran/java-dagger-example">Java Dagger example</a></li>
   <li><a href="https://github.com/miquelbeltran/kotlin-node.js">Kotlin Node.js example</a></li>
+  <li><a href="https://github.com/miquelbeltran/java-dagger-example">Java Dagger example</a></li>
   <li><a href="https://github.com/google/ExoPlayer/commits?author=miquelbeltran">Google Exoplayer</a></li>
 </ul>
 

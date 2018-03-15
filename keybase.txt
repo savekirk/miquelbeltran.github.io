@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/miquelbeltran
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://beltran.work
+  * I am miquelbeltran (https://keybase.io/miquelbeltran) on keybase.
+  * I have a public key with fingerprint 7C4D CCED CCDE B8FA F4C0  09D2 AE9F C767 BF4D 65AC
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01011551784d85b624530107179d66d709dac91f270155ad20214f163b41aed67ccc0a",
+      "fingerprint": "7c4dccedccdeb8faf4c009d2ae9fc767bf4d65ac",
+      "host": "keybase.io",
+      "key_id": "ae9fc767bf4d65ac",
+      "kid": "01011551784d85b624530107179d66d709dac91f270155ad20214f163b41aed67ccc0a",
+      "uid": "fcc83b0edee07e5d5dccdd6f0344f919",
+      "username": "miquelbeltran"
+    },
+    "service": {
+      "hostname": "beltran.work",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1521112013,
+  "expire_in": 157680000,
+  "prev": "f137007202deb6cce30bc753c0425fd957534f919af59ca4d8d6baf56935b978",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owGtkn1MVWUcx7nIS0AmXgpU0LYzxRJ2O+fe83IPLaemkYA5vGMkG96dl+fg6cI5
+l3MPGCNmmM0Q7oYagiCgKJWFdLMRggWruBdYgjQYCyHGICF6gTDIi4zoOYz+68+e
+7dnz9v19nt/39zyl69f5BOsaazsz2g+BBt1306xP2seWgXyElfk8JC4fsYHVAWTy
+wKFabSKPxCEohmIYQWCUGefNBEsaccIE9yiMonmS5CmU5hmOxgQjhUIZwxtRI4YL
+GGlicYwBPElxHIcySCwiiFIGUOyKKKkQS3E4z3EAdh6wZoERcA6FKCMDaIGjSIoV
+cJ4kGA4GHpcdWgRMjmUcwCDKcA8urKvp/Yf+f847ZxUncJzZxKKABwClAMETWuY8
+KaAmHBdojNaEDqBITBaA6iwxOwdksiBTVRgJKYhF4FGuyAGtupqdNdmawHBCVmwQ
+YFdkVebkTHhyXFXtcVqgmmfXlCcAa11jWFlR4mEtYUAuUByiLCFxGFRyqqhBMcKI
+YZgRxUyxCHjTLirAKmoKgiLNKGzaNSBXc4SZ0ikUpaBx+AQkfAwTynIUYeJQ3EgI
+PE3A+ao3RiBojoFl5EkWzknaRLA0ZUY0W9mSDOGQqjIZEOoQMyRGzVEAUhBc5Bvl
+56ML9gnw99W+mU9wUOi/f2/i0oaV/ReH5G5XzXhGoT7Wg/6ueGMt/hF6sYnOWsj0
+zHJzf93u1XFudXz3xGz39J2y4vyhU33NT+1tsU/dcSvFyWf9vgj5/McvO9IGvS/T
+Hb/2/HA3LLHyp+WxsyNdYzMzhtcQZ02V85hviyvQOOx8WNFRa9NVf1PF1A15rjZ/
+W3RhuTb0hjoZ2LZt14GAN7JHHscvDCfPP/nJya6tgee3W967P7n1TJNSNp3Y7mpK
+IUsq5cqK1sSlokeSd9oyPGPpHZoomRkgnt/YOlLe2/a41D2af/7i7cXvB83xh0PI
+Fs+tuoL7+hvRLkuyt2iq1EjV7F/grq/Me6X61LkXYl7cpF90Pkj5e9eVnT93luxN
+64upu35t5tljB3fnXzv1W0Rgwq2pUL4xpv1oYHi4+X1rmNOaFESsezd9Musz56Vf
+NnVWvz1XXdC+/agR/7p9pCdy8z7fVFf/tvorNrBjvuYj0RuUHlFR9PSH8dllFfvw
+h7a+qNNHWg/HRTeceys8JWTW/keS3sP39F/e4FfeK7zakDp8LiFyfGzF8yh1Yr2n
+XOcXr39uIPluVd3NxXcS9xxZEl/q+IC39xvY6KXC5h0P7t086D+YV9H2+hMtAZVR
+3KcXOsKuni5sPCPlPuPe4/eK96uk6M330opdMaY/PWEbx3YaIi2EIeHkqDulKzXJ
+u8W9pb6me7krUj/6Dw==
+=BxOV
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/miquelbeltran
+
+==================================================================

@@ -4,4 +4,19 @@ title: Talks
 class: talks
 ---
 
+<header class="header-home {% if site.animation %}animated{% endif %}">
+    {% if site.about %}
+        <a class="link" href="{{ site.url }}/about">
+            <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+        </a>
+    {% else %}
+        <span class="link">
+            <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+        </span>
+    {% endif %}
+    <h1 class="title">{{ site.name }}</h1>
+    <h2 class="description">{{ site.bio }}</h2>
+    {% include social-links.html %}
+</header>
+
 {% include talks.md %}

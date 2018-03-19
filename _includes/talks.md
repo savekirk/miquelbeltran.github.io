@@ -13,7 +13,7 @@ Roll Your Own DSL with Kotlin (Lightning Talk) [Slides](https://speakerdeck.com/
 `2017-07-26` [Berlindroid](https://www.meetup.com/GDG-Berlin-Android/events/239504328/)<br/>
 No More Tofu - Taming Emoji On Android [Slides](https://speakerdeck.com/miquelbeltran/no-more-tofu-taming-emoji-on-android)<br/><br/>
 `2016-11-01` WTM Berlin Android Study Jam<br/>
-Java Coding Challenges<br/><br/>
+Workshop: Java Coding Challenges - Solving coding challenges together<br/><br/>
 `2016-08-16` WTM Berlin Android Study Jam<br/>
-Introduction to GitHub [Slides](https://speakerdeck.com/miquelbeltran/introduction-to-github)<br/><br/>
+Workshop: Introduction to GitHub [Slides](https://speakerdeck.com/miquelbeltran/introduction-to-github)<br/><br/>
 

@@ -2,8 +2,8 @@
 title: "Using MediaDrm for device ID tracking"
 layout: post
 date: 2018-03-27 14:00
-image: /assets/images/kotlin-android-extensions.png
-headerImage: false
+image: /assets/images/coffee.jpg
+headerImage: true
 tag:
 - android
 category: blog

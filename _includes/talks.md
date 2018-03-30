@@ -3,7 +3,8 @@
 `2018-04-13` [Chicago Roboto 2018](http://chicagoroboto.com/sessions/no-%E2%96%A1-%E2%80%8A-%E2%80%8A-mastering-emoji-android/)
 <br/>In Preparation: No More □  —  Mastering Emoji on Android<br/><br/>
 `2018-02-08` [DroidKaigi 2018](https://droidkaigi.jp/2018/)<br/>
-Say bye to Fragments with Conductor & Kotlin [Slides](https://speakerdeck.com/miquelbeltran/say-bye-to-fragments-with-conductor-and-kotlin)<br/><br/>
+Say bye to Fragments with Conductor & Kotlin [Slides](https://speakerdeck.com/miquelbeltran/say-bye-to-fragments-with-conductor-and-kotlin)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rsmvQBGJYcM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br/><br/>
 `2018-01-31` [Berlindroid](https://www.meetup.com/de-DE/GDG-Berlin-Android/events/240633950/?eventId=240633950)<br/>
 Say bye to Fragments with Conductor & Kotlin<br/><br/>
 `2017-11-04` [DevFest Berlin 2017](https://2017.devfest-berlin.de/schedule/day2?sessionId=20602)<br/>

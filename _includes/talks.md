@@ -1,7 +1,7 @@
 <h2>Talks</h2>
 
 `2018-04-13` [Chicago Roboto 2018](http://chicagoroboto.com/sessions/no-%E2%96%A1-%E2%80%8A-%E2%80%8A-mastering-emoji-android/)
-<br/>In Preparation: No More □  —  Mastering Emoji on Android<br/><br/>
+<br/>No More □  —  Mastering Emoji on Android [Slides](https://speakerdeck.com/miquelbeltran/no-more-tofu-mastering-emoji-on-android-chicago-roboto)<br/><br/>
 `2018-02-08` [DroidKaigi 2018](https://droidkaigi.jp/2018/)<br/>
 Say bye to Fragments with Conductor & Kotlin [Slides](https://speakerdeck.com/miquelbeltran/say-bye-to-fragments-with-conductor-and-kotlin)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rsmvQBGJYcM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br/><br/>

@@ -5,13 +5,14 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-Software Engineer with more than ten years of experience.
+Software Engineer with more than a decade of professional experience.
 Doing Android development since 2012. Currently located in Berlin.
 
-I've worked in different industries: Telecomunications, gaming, multimedia and consumer apps.
-Currently I am building a social app to connect neighbours.
-
-I am also a technical blogger and speaker. My articles have
+I am also a technical blogger and speaker.
+I've been speaker at international conferences like
+[DroidKaigi](https://droidkaigi.jp) and
+[Chicago Roboto](https://chicagoroboto.com/).
+And my articles have
 been featured in [Android Weekly](http://androidweekly.net/) and [Kotlin Weekly](http://www.kotlinweekly.net/).
 
 {% include talks.md %}
@@ -49,10 +50,3 @@ been featured in [Android Weekly](http://androidweekly.net/) and [Kotlin Weekly]
   <li><a href="https://github.com/google/ExoPlayer/commits?author=miquelbeltran">Google Exoplayer</a></li>
 </ul>
 
-<h2>Community & Volunteering</h2>
-
-<p>Since 2016 I am part of the Google Developers Group organizers team in
-Berlin. Since then, I've been hosting workshops as part of the Women Techmakers
-activities twice a month to teach Android development to beginners. Our events
-have a strong focus on being inclusive and help those who did not have the
-opportunity to start a carreer in IT.</p>

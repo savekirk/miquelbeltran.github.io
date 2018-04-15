@@ -18,22 +18,20 @@ externalLink: false
 
 Starting May 2016 I worked on the Android application for [Nebenan.de](http://nebenan.de).
 
-Nebenan is an online platform that connects neighbours within the same neighbourhood, and it's main focus is the German market.
+Nebenan is an online platform that connects neighbours within the same neighbourhood, and it's main focus is the European market.
 
 The Android stack includes:
 
 - Kotlin
-- RxJava version 1
+- RxJava version 2
 - Retrofit with RxJava and GSON
 - Dagger 2 for dependency injection
-- Realm as database provider
+- Architecture Components with Room, ViewModel and LiveData
 - Espresso integration tests
-- Mockito for unit testing
 - JUnit unit tests
 
 The application follows a clean architecure separating the data sources,
-business model and the UI implementation. As well we follow MVP for the UI
-implementation.
+business model and the UI implementation.
 
 <a href='https://play.google.com/store/apps/details?id=de.nebenan.app&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="240" /></a>
 

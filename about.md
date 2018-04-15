@@ -41,12 +41,12 @@ been featured in [Android Weekly](http://androidweekly.net/) and [Kotlin Weekly]
 `2010-2011` **Project Management** _Master of Science (Msc)_<br/>
 `2002-2008` **Computer Science** _Bachellor and Master_
 
-<h2>Notable Open Source Projects & Contributions</h2>
+<h2>Notable Open Source Projects, Libraries & Contributions</h2>
 
 <ul>
-  <li><a href="https://github.com/miquelbeltran/android-discogsbrowser">Android Discogs Browser</a></li>
-  <li><a href="https://github.com/miquelbeltran/kotlin-node.js">Kotlin Node.js example</a></li>
-  <li><a href="https://github.com/miquelbeltran/java-dagger-example">Java Dagger example</a></li>
-  <li><a href="https://github.com/google/ExoPlayer/commits?author=miquelbeltran">Google Exoplayer</a></li>
+  <li>Library: <a href="https://github.com/miquelbeltran/conductor-viewmodel">ViewModel support for Conductor</a></li>
+  <li>Project: <a href="https://github.com/miquelbeltran/kotlin-node.js">Kotlin Node.js</a></li>
+  <li>Project: <a href="https://github.com/miquelbeltran/kotlin-code-gen-sample">Kotlin code generation</a></li>
+  <li>Contribution: <a href="https://github.com/google/ExoPlayer/commits?author=miquelbeltran">Google Exoplayer</a></li>
 </ul>
 

@@ -129,7 +129,7 @@ However, be ready to deal with some surprises too. An example of that is
 anymore and you will have to specify that you are using a `BiFunction`
 explicitly.
 
-**RxJava 1***
+**RxJava 1**
 
 ```kotlin
 Observable.combineLatest(email, password, { email, password ->
@@ -137,7 +137,7 @@ Observable.combineLatest(email, password, { email, password ->
 })
 ```
 
-**RxJava 1***
+**RxJava 2**
 
 ```kotlin
 Observable.combineLatest(email, password,

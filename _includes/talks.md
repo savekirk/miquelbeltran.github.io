@@ -1,4 +1,4 @@
-<h2>Talks</h2>
+<h2>Conference Talks</h2>
 
 `2018-06-26` Droidcon Berlin 2018
 <br/>Upcoming: No More □  —  Mastering Emoji on Android<br/><br/>
@@ -8,16 +8,21 @@
 `2018-02-08` [DroidKaigi 2018](https://droidkaigi.jp/2018/)<br/>
 Say bye to Fragments with Conductor & Kotlin [Slides](https://speakerdeck.com/miquelbeltran/say-bye-to-fragments-with-conductor-and-kotlin)
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rsmvQBGJYcM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br/><br/>
-`2018-01-31` [Berlindroid](https://www.meetup.com/de-DE/GDG-Berlin-Android/events/240633950/?eventId=240633950)<br/>
-Say bye to Fragments with Conductor & Kotlin<br/><br/>
 `2017-11-04` [DevFest Berlin 2017](https://2017.devfest-berlin.de/schedule/day2?sessionId=20602)<br/>
 Mastering Firebase Cloud Messaging [Slides](https://speakerdeck.com/miquelbeltran/mastering-firebase-cloud-messaging)<br/><br/>
 `2017-11-04` [DevFest Berlin 2017](https://2017.devfest-berlin.de/schedule/day2?sessionId=2012022)<br/>
 Roll Your Own DSL with Kotlin (Lightning Talk) [Slides](https://speakerdeck.com/miquelbeltran/roll-your-own-dsl-with-kotlin-lightning-talk)<br/><br/>
-`2017-07-26` [Berlindroid](https://www.meetup.com/GDG-Berlin-Android/events/239504328/)<br/>
-No More Tofu - Taming Emoji On Android [Slides](https://speakerdeck.com/miquelbeltran/no-more-tofu-taming-emoji-on-android)<br/><br/>
-`2016-11-01` WTM Berlin Android Study Jam<br/>
-Workshop: Java Coding Challenges - Solving coding challenges together<br/><br/>
-`2016-08-16` WTM Berlin Android Study Jam<br/>
-Workshop: Introduction to GitHub [Slides](https://speakerdeck.com/miquelbeltran/introduction-to-github)<br/><br/>
+
+<h2>Meetup Talks</h2>
+
+- `2018-01-31` [Berlindroid](https://www.meetup.com/de-DE/GDG-Berlin-Android/events/240633950/?eventId=240633950) Say bye to Fragments with Conductor & Kotlin
+- `2017-07-26` [Berlindroid](https://www.meetup.com/GDG-Berlin-Android/events/239504328/) No More Tofu - Taming Emoji On Android
+
+<h2>Workshops (as teacher)</h2>
+
+- `May 2018` "Android Study Jam" WTM Berlin
+- `May 2017` "Android Study Jam" WTM Berlin
+- `Oct 2016` "Android Study Jam" WTM Berlin
+- `May 2016` "Android Study Jam" WTM Berlin
+
 

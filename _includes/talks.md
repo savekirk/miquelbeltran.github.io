@@ -1,17 +1,17 @@
 <h2>Conference Talks</h2>
 
-`2018-06-26` Droidcon Berlin 2018
-<br/>Upcoming: No More □  —  Mastering Emoji on Android<br/><br/>
+`2018-06-26` [Droidcon Berlin 2018](https://www.de.droidcon.com/Sessions/NO-MORE-%E2%96%A1-%E2%80%8A%E2%80%94%E2%80%8A-MASTERING-EMOJI-ON-ANDROID)
+<br/>Upcoming: No More □  —  Mastering Emoji on Android<br/>
 `2018-04-13` [Chicago Roboto 2018](http://chicagoroboto.com/sessions/no-%E2%96%A1-%E2%80%8A-%E2%80%8A-mastering-emoji-android/)
 <br/>No More □  —  Mastering Emoji on Android [Slides](https://speakerdeck.com/miquelbeltran/no-more-tofu-mastering-emoji-on-android-chicago-roboto)
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wpvaZ2XbmXU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br/><br/>
+[YouTube Video](https://www.youtube.com/watch?v=wpvaZ2XbmXU)<br/>
 `2018-02-08` [DroidKaigi 2018](https://droidkaigi.jp/2018/)<br/>
 Say bye to Fragments with Conductor & Kotlin [Slides](https://speakerdeck.com/miquelbeltran/say-bye-to-fragments-with-conductor-and-kotlin)
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rsmvQBGJYcM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br/><br/>
+[YouTube Video](https://www.youtube.com/watch?v=rsmvQBGJYcM)<br/>
 `2017-11-04` [DevFest Berlin 2017](https://2017.devfest-berlin.de/schedule/day2?sessionId=20602)<br/>
-Mastering Firebase Cloud Messaging [Slides](https://speakerdeck.com/miquelbeltran/mastering-firebase-cloud-messaging)<br/><br/>
+Mastering Firebase Cloud Messaging [Slides](https://speakerdeck.com/miquelbeltran/mastering-firebase-cloud-messaging)<br/>
 `2017-11-04` [DevFest Berlin 2017](https://2017.devfest-berlin.de/schedule/day2?sessionId=2012022)<br/>
-Roll Your Own DSL with Kotlin (Lightning Talk) [Slides](https://speakerdeck.com/miquelbeltran/roll-your-own-dsl-with-kotlin-lightning-talk)<br/><br/>
+Roll Your Own DSL with Kotlin (Lightning Talk) [Slides](https://speakerdeck.com/miquelbeltran/roll-your-own-dsl-with-kotlin-lightning-talk)<br/>
 
 <h2>Meetup Talks</h2>
 
@@ -20,9 +20,8 @@ Roll Your Own DSL with Kotlin (Lightning Talk) [Slides](https://speakerdeck.com/
 
 <h2>Workshops (as teacher)</h2>
 
-- `May 2018` "Android Study Jam" WTM Berlin
-- `May 2017` "Android Study Jam" WTM Berlin
-- `Oct 2016` "Android Study Jam" WTM Berlin
-- `May 2016` "Android Study Jam" WTM Berlin
-
+- `May 2018` [Android Study Jam](http://wtmberlin.com/android-study-jam/) at SoundCloud
+- `May 2017` [Android Study Jam](http://wtmberlin.com/android-study-jam/) at [Babbel](https://bytes.babbel.com/en/articles/2017-03-03-android-study-jam.html)
+- `Oct 2016` [Android Study Jam](http://wtmberlin.com/android-study-jam/) at ImmoScout24
+- `May 2016` [Android Study Jam](http://wtmberlin.com/android-study-jam/) at ImmoScout24
 

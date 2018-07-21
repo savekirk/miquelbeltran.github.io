@@ -15,8 +15,6 @@ I've been speaker at international conferences like
 And my articles have
 been featured in [Android Weekly](http://androidweekly.net/) and [Kotlin Weekly](http://www.kotlinweekly.net/).
 
-{% include talks.md %}
-
 <h2>Specialized In</h2>
 
 <ul class="skill-list">
@@ -29,6 +27,8 @@ been featured in [Android Weekly](http://androidweekly.net/) and [Kotlin Weekly]
   <li>Machine Learning and Deep Learning</li>
   <li>Project Management</li>
 </ul>
+
+{% include talks.md %}
 
 ## Professional Experience
 

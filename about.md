@@ -5,7 +5,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-Freelance Software Developer with more than a decade of professional experience.
+Freelance Android Developer with more than a decade of professional experience.
 Doing Android development since 2012. Currently located in Berlin.
 
 I am also a technical blogger and speaker.
@@ -13,7 +13,7 @@ I've been speaker at international conferences like
 [DroidKaigi](https://droidkaigi.jp) and
 [Chicago Roboto](https://chicagoroboto.com/).
 And my articles have
-been featured in [Android Weekly](http://androidweekly.net/) and [Kotlin Weekly](http://www.kotlinweekly.net/).
+been featured in [ProAndroidDev](https://proandroiddev.com/), [Android Weekly](http://androidweekly.net/) and [Kotlin Weekly](http://www.kotlinweekly.net/).
 
 <h2>Specialized In</h2>
 
@@ -21,9 +21,10 @@ been featured in [Android Weekly](http://androidweekly.net/) and [Kotlin Weekly]
   <li>Android app development and publishing</li>
   <li>Kotlin</li>
   <li>Refactoring, project modularization and architectures</li>
-  <li>Unit and Integration tests</li>
+  <li>Unit, UI and Integration tests</li>
   <li>Continuous Integration and Deployement</li>
   <li>Firebase and 3rd party integrations</li>
+  <li>Hybrid app development with Flutter</li>
   <li>Machine Learning and Deep Learning</li>
 </ul>
 

@@ -5,7 +5,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-Software Engineer with more than a decade of professional experience.
+Freelance Software Developer with more than a decade of professional experience.
 Doing Android development since 2012. Currently located in Berlin.
 
 I am also a technical blogger and speaker.
@@ -25,14 +25,12 @@ been featured in [Android Weekly](http://androidweekly.net/) and [Kotlin Weekly]
   <li>Continuous Integration and Deployement</li>
   <li>Firebase and 3rd party integrations</li>
   <li>Machine Learning and Deep Learning</li>
-  <li>Project Management</li>
 </ul>
-
-{% include talks.md %}
 
 ## Professional Experience
 
-`Since 2016` **Lead Android Engineer** _Nebenan.de (Good Hood GmbH)_<br/>
+`From 2018` **Freelance Android Developer**<br/>
+`2016-2018` **Lead Android Engineer** _Nebenan.de (Good Hood GmbH)_<br/>
 `2012-2015` **Technical Team Lead Mobile** _castLabs GmbH_<br/>
 `2009-2011` **Software Engineer** _Win Systems Intl_<br/>
 `2006-2008` **Software Engineer** _W-Onesys S.L._
@@ -42,6 +40,8 @@ been featured in [Android Weekly](http://androidweekly.net/) and [Kotlin Weekly]
 `2018` **Deep Learning** _Udacity Nanodegree_<br/>
 `2010-2011` **Project Management** _Master of Science (MSc)_<br/>
 `2002-2008` **Computer Science** _Bachellor and Master (MSc)_
+
+{% include talks.md %}
 
 <h2>Notable Open Source Projects, Libraries & Contributions</h2>
 

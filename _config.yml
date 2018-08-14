@@ -1,9 +1,9 @@
 # main text of home
 name: Miquel Beltran
-bio: Software engineer and Android developer
+bio: Freelance Android Developer
 
 # twitter summary info
-description: Miquel Beltran Android Developer in Berlin
+description: Miquel Beltran Freelance Android Developer in Berlin
 
 # if it's an external image, update below for true
 # better with square images
@@ -53,7 +53,7 @@ email: miquelbeltran@gmail.com
 authors:
     miquel:
         name: Miquel Beltran
-        bio: Software engineer and Android developer
+        bio: Freelance Android Developer
         external-image: false
         picture: assets/images/profile.jpg
         twitter: miqubel

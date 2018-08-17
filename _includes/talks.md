@@ -1,7 +1,7 @@
 <h2>Conference Talks</h2>
 
 - `2018-06-26` [Droidcon Berlin 2018](https://www.de.droidcon.com/Sessions/NO-MORE-%E2%96%A1-%E2%80%8A%E2%80%94%E2%80%8A-MASTERING-EMOJI-ON-ANDROID)
-<br/>No More □  —  Mastering Emoji on Android<br/>
+<br/>No More □  —  Mastering Emoji on Android [YouTube Video](https://www.youtube.com/watch?v=Y1OB-RFHtkA&t=0s&list=PL0ExjqIDnsf5wNdOe5gNdb7uqi7DwpVoL&index=5)<br/>
 - `2018-06-25` Droidcon Berlin 2018<br/>Sketchnoting workshop
 - `2018-04-13` [Chicago Roboto 2018](http://chicagoroboto.com/sessions/no-%E2%96%A1-%E2%80%8A-%E2%80%8A-mastering-emoji-android/)
 <br/>No More □  —  Mastering Emoji on Android [Slides](https://speakerdeck.com/miquelbeltran/no-more-tofu-mastering-emoji-on-android-chicago-roboto)

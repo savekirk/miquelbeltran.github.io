@@ -6,6 +6,8 @@ tag:
 - Android
 - Application
 - Social
+- Java
+- Kotlin
 image: /assets/images/nebenan.png
 headerImage: true
 projects: true
@@ -23,7 +25,7 @@ Nebenan is an online platform that connects neighbours within the same neighbour
 The Android stack includes:
 
 - Kotlin
-- RxJava version 2
+- RxJava 2
 - Retrofit with RxJava and GSON
 - Dagger 2 for dependency injection
 - Architecture Components with Room, ViewModel and LiveData

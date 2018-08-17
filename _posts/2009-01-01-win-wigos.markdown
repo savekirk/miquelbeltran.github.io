@@ -1,0 +1,35 @@
+---
+title: "Casino Management System for Win Technologies"
+layout: post
+date: 2009-01-01 20:00
+tag:
+- Microsoft
+- C#
+image: /assets/images/mobile-tv.png
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Casino Management System for Win Technologies"
+category: project
+author: miquel
+externalLink: false
+---
+
+Development of casino management and cashier software.
+
+During the course of three years, worked on different features which involved
+cashier Point of Sale applications, standalone desktop applications and .Net
+backends with Microsoft SQL Server.
+
+## Technologies
+
+C# .Net application with Microsoft SQL Server.
+
+## Customer
+
+Application developed for Win Technologies Limited [https://winsysgroup.com/en/](https://winsysgroup.com/en/).
+
+## Duration
+
+From January 2009 to December 2012.
+

@@ -6,6 +6,10 @@ tag:
 - Android
 - ExoPlayer
 - iOS
+- Java
+- C++
+- NDK
+- Objective-C
 image: /assets/images/mobile-tv.png
 headerImage: true
 projects: true

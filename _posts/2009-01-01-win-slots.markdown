@@ -1,0 +1,33 @@
+---
+title: "Virtual Slot Games for Win Technologies"
+layout: post
+date: 2009-01-01 20:00
+tag:
+- Microsoft
+- C++
+image: /assets/images/mobile-tv.png
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Virtual Slot Games for Win Technologies"
+category: project
+author: miquel
+externalLink: false
+---
+
+Development of virtual slot machine games for large casinos.
+
+Created multiple games during the course of three years.
+
+## Technologies
+
+C++ .Net application for Windows CE.
+
+## Customer
+
+Application developed for Win Technologies Limited [https://winsysgroup.com/en/](https://winsysgroup.com/en/).
+
+## Duration
+
+From January 2009 to December 2011.
+

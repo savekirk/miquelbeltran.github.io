@@ -1,5 +1,5 @@
 ---
-title: "Mobile Bank App for Win Technologies"
+title: "iStats App for Win Technologies"
 layout: post
 date: 2011-06-01 20:00
 tag:
@@ -8,20 +8,16 @@ image: /assets/images/mobile-tv.png
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "Mobile Bank App for Win Technologies"
+description: "iStats App for Win Technologies"
 category: project
 author: miquel
 externalLink: false
 ---
 
-Development of an iPod application with a magnetic card reader for internal
-usage.
-
-Casino employees use the application to charge the client card with credit.
-
-The application reads he magnetic card and connects to the casino
-system to obtain and display all client information, the casino employee can
-recharge the client card by introducing the credit amount and the personal PIN.
+Development of an iPad application to view sales statistics from casinos with
+graphical data representation. The application connects to the casinos using a
+secure socket connection and allows to view statistics of sales in a
+daily/weekly/monthly basis.
 
 ## Technologies
 

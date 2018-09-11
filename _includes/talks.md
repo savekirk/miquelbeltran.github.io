@@ -17,15 +17,18 @@ Roll Your Own DSL with Kotlin (Lightning Talk) [Slides](https://speakerdeck.com/
 
 <h2>Meetup Talks</h2>
 
-- `2018-07-26` [Quality People Berlin](https://www.meetup.com/Quality-People-Berlin/events/251231197/) How to make Android developers HAPPY with QA
-- `2018-01-31` [Berlindroid](https://www.meetup.com/de-DE/GDG-Berlin-Android/events/240633950/?eventId=240633950) Say bye to Fragments with Conductor & Kotlin
-- `2017-07-26` [Berlindroid](https://www.meetup.com/GDG-Berlin-Android/events/239504328/) No More Tofu - Taming Emoji On Android
-
-<h2>Meetup workshops as teacher</h2>
-
+- `2018-07-26` [Quality People Berlin](https://www.meetup.com/Quality-People-Berlin/events/251231197/)
+<br/>How to make Android developers HAPPY with QA
+- `2018-01-31` [Berlindroid](https://www.meetup.com/de-DE/GDG-Berlin-Android/events/240633950/?eventId=240633950)
+<br/>Say bye to Fragments with Conductor & Kotlin
+- `2017-07-26` [Berlindroid](https://www.meetup.com/GDG-Berlin-Android/events/239504328/)
+<br/>No More Tofu - Taming Emoji On Android
 - `May 2018` [Android Study Jam](http://wtmberlin.com/android-study-jam/) at SoundCloud
 - `May 2017` [Android Study Jam](http://wtmberlin.com/android-study-jam/) at [Babbel](https://bytes.babbel.com/en/articles/2017-03-03-android-study-jam.html)
 - `Oct 2016` [Android Study Jam](http://wtmberlin.com/android-study-jam/) at ImmoScout24
 - `May 2016` [Android Study Jam](http://wtmberlin.com/android-study-jam/) at ImmoScout24
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uFpJD_iJHjs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<h2>Online Video Content</h2>
+
+- Interview at Android Dialogs [Youtube Video](https://www.youtube.com/watch?v=uFpJD_iJHjs)
+

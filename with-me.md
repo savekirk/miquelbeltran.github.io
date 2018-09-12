@@ -21,17 +21,19 @@ in C# and iOS apps with Objective-C. [Check my projects here.](/projects)
 
 As a mobile developer, I've been creating apps and libraries for seven years
 and I am still enjoying it, specially since Kotlin came out. As well, I've been
-experimenting with Flutter, a new framework to build high-performant hybrid
-applications that run both on Android and iOS.
+[experimenting with
+Flutter](https://github.com/miquelbeltran/flutter_projects), a new framework to
+build high-performant hybrid applications that run both on Android and iOS.
 
-In the latest years, I've also been learning Machine Learning and Neural
-Networks, with special focus on practical approaches for mobile devices.
+In the latest years, I've also been [learning Machine Learning and Neural
+Networks](https://github.com/miquelbeltran/deep-learning), with special focus
+on practical approaches for mobile devices.
 
 And last but not least, **I love teaching**. [I am a public speaker](/talks)
 and also [blog author](https://medium.com/@miqubel).  I have spoken at
 conferences worldwide and my articles have helped thousands of developers
-understand complex concepts. I'd be more than happy to help your team improve
-with workshops and seminars.
+understand complex concepts. I am currently preparing a course on Pluralsight.
+I'd be more than happy to help your team improve with workshops and seminars.
 
 ## My way of working
 
@@ -40,13 +42,8 @@ should have and I reflect that in my way of building things: well documented
 code, easy to read and easy to maintain. I am always happy to answer questions
 and collaborate even remotely.
 
-I believe tests are first class citizens, so I treat testing as a priority too.
-I like to use continuous integration and to do TDD whenever it is possible. If
-you are not writing tests yet, I can help you and your team get started with
-unit and UI testing for mobile.
-
 ## Work with me!
 
 Sounds good? Then **let's work together!**
-Send me an email to miquelbeltran@gmail.com.
+Send me an email to [miquelbeltran@gmail.com](mailto:miquelbeltran@gmail.com).
 Recruiters are also welcome to contact me.

@@ -47,3 +47,6 @@ and collaborate even remotely.
 Sounds good? Then **let's work together!**
 Send me an email to [miquelbeltran@gmail.com](mailto:miquelbeltran@gmail.com).
 Recruiters are also welcome to contact me.
+
+[Download my CV](/Beltran_CV_2018.pdf)<br/>
+[Download my Portfolio](/Beltran_Portfolio.pdf)

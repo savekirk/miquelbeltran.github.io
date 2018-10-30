@@ -11,9 +11,9 @@ Heerstr. 9<br/>
 14052 Berlin<br/>
 Germany
 
-Phone: Pending<br/>
+Phone: +491774384303 (Signal and Telegram OK)<br/>
 Email: miquelbeltran@gmail.com
 
-USt-IdNr. (VAT ID): pending
+USt-IdNr. (VAT ID): DE319811302
 
 
